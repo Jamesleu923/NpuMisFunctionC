@@ -38,6 +38,11 @@ double countsum07(double m, double n) {
     return m + n;
 }
 
+//傳入指標..
+double cuntsum08(double* ptr1, double* ptr2, int k) {
+
+    return 0.14;
+}
 int main()
 {
 
